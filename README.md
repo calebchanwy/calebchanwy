@@ -1,7 +1,9 @@
 👋 Hi, I’m Caleb Chan! I am currently an A-Level student who is looking for experience into software engineering.
-👀 I’m interested in ...
+
 🌱 I’m currently trying to perfect my Python and C# Programming skills.
+
 📫 If you want to reach out to me, add me on LinkedIn!
+
 [My LinkedIn](www.linkedin.com/in/calebchanwy)
 
 <!---
