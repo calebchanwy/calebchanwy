@@ -4,7 +4,7 @@
 
 📫 If you want to reach out to me, add me on LinkedIn!
 
-[My LinkedIn Profile](www.linkedin.com/in/calebchanwy)
+[My LinkedIn Profile](https://www.linkedin.com/in/calebchanwy/)
 
 <!---
 calebchan1/calebchan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
