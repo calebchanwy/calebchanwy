@@ -1,8 +1,10 @@
-👋 Hi, I’m Caleb Chan! I am currently an A-Level student who is looking for experience into software development/engineering.
+👋 Hi, I’m Caleb Chan! I am currently an undergraduate CS student at King's College London
 
-🌱 I’m currently trying to perfect my Python and C# Programming skills.
+🌱 I’m currently trying to perfect my Java programming skills
 
 📫 If you want to reach out to me, add me on LinkedIn!
+
+Programming Languages: Python, C#, Java, VB.net
 
 [My LinkedIn Profile](https://www.linkedin.com/in/calebchanwy/)
 
