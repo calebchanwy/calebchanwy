@@ -1,10 +1,10 @@
-👋 Hi, I’m Caleb Chan! I am currently an undergraduate CS student at King's College London
+👋 Hi, I’m Caleb! I am currently a second year undergraduate CS student at King's College London
 
-🌱 I’m currently trying to perfect my Java programming skills
+🌱 I’m currently trying to learn the ins and outs of C++
 
 📫 If you want to reach out to me, add me on LinkedIn!
 
-Programming Languages: Python, C#, Java, VB.net
+Programming Languages: Python, C#, Java, C++, VB.net
 
 [My LinkedIn Profile](https://www.linkedin.com/in/calebchanwy/)
 
