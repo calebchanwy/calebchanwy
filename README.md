@@ -1,4 +1,4 @@
-👋 Hi, I’m Caleb! I am a third year undergraduate CS (with a year in industry) student at King's College London, currently doing a placement year at [Ciena](https://www.ciena.com/)
+👋 Hi, I’m Caleb! I am a third year undergraduate CS (with a year in industry) student at King's College London, currently doing a Software Engineering placement year at [Ciena](https://www.ciena.com/)
 
 📫 If you want to reach out to me, add me on LinkedIn!
 
