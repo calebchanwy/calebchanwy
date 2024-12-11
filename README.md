@@ -1,8 +1,9 @@
-👋 Hi, I’m Caleb! I am currently a second year undergraduate CS student at King's College London
+👋 Hi, I’m Caleb! I am a third year undergraduate CS (with a year in industry) student at King's College London, currently doing a placement year at [Ciena](https://www.ciena.com/)
 
 📫 If you want to reach out to me, add me on LinkedIn!
 
-Programming Languages: Python, C#, Java, C++, VB.net, Scala
+Programming Languages: Python, C#, Java, C++, VB.net, Scala, Ansible
+
 
 [My LinkedIn Profile](https://www.linkedin.com/in/calebchanwy/)
 
